@@ -20,5 +20,5 @@ class ClasePrueba:
             if variable in lista2:
                 valor = True
             else:
-                valor = False
+                valor =  False
             return valor
